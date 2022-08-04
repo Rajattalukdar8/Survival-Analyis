@@ -1,0 +1,9 @@
+1. Understand the data at https://github.com/ezgisubasi/breast-cancer-gene-expression
+
+
+2. Perform KM survival analyses for all types of breast
+cancer. Comment on the aggressiveness of different subtypes.
+
+
+3. Irrespective of subtypes what are the other clinical
+features that determine survival the best?
